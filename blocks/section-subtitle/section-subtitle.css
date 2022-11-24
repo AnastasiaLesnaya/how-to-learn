@@ -1,7 +1,7 @@
 .section-subtitle {
   margin: 20px auto 0;
-  viewport-fit: 60%;
-  display: flex;
+  width: 60%;
+  text-align: center; 
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
