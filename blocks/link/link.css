@@ -1,0 +1,6 @@
+.link:hover {
+  opacity: .75;
+  transition-property: color;
+  color:blueviolet;
+
+}
